@@ -1,4 +1,4 @@
-White Papre Document
+White Paper Document
 
 …or create a new repository on the command line
 echo "# GreatBot" >> README.md
